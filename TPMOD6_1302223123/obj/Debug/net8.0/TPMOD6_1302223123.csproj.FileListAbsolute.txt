@@ -12,3 +12,4 @@ C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\TPMOD6_130222
 C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\TPMOD6_1302223123\TPMOD6_1302223123\obj\Debug\net8.0\TPMOD6_1302223123.pdb
 C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\TPMOD6_1302223123\TPMOD6_1302223123\obj\Debug\net8.0\TPMOD6_1302223123.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\TPMOD6_1302223123\TPMOD6_1302223123\obj\Debug\net8.0\ref\TPMOD6_1302223123.dll
+C:\Users\LENOVO\Desktop\semester 4\Kontruksi Perangkat Lunak (KPL)\TPMOD6_1302223123\TPMOD6_1302223123\obj\Debug\net8.0\TPMOD6_1302223123.sourcelink.json
